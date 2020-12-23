@@ -1,6 +1,14 @@
 # Degree
-- degree: Architecture
-  uni: Politecnico di torino
-  year: June, 2014 &mdash; January, 2015
-  # awards:
-  summary: not much to say here...
+- degree: MSc in Architecture for Sustainability Design
+  uni: Polytechnic of Turin
+  year: 2012 &mdash; 2015
+  awards:
+    - award: Scholarship for thesis research at Massachusetts Institute of Technology, Cambridge, USA
+    - award: Erasmus Mundus Scholarship, one year at the Universidade de Brasilia, DF, Brazil
+    - award: Teaching Assistant, Atelier Urban Design, Prof. Cristina Bianchetti
+  summary: 110/110 Cum Laude graduate, Thesis Title: "Syntax and models for urban accessibility", Supervisor Prof. Roberto Pagani, Co-supervisor Prof. Carlo Ratti
+
+- degree: BSc in Architecture 
+  uni: Polytechnic of Turin
+  year: 2008 &mdash; 2012
+  summary: Thesis Title: "Project for an acoustic installation in San Salvario, Turin", Supervisor Prof. Arianna Astolfi
