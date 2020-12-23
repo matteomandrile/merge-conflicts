@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Matteo Mandrile CV"
+description: "Matteo Mandrile's Curriculum Vitae"
 
 # Build settings
 markdown: kramdown
@@ -10,13 +10,15 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "GitHub Teacher"
-resume_title:                   "Professional Trainer"
-resume_contact_email:           "services@github.com"
-resume_contact_telephone:       "1-(877)-448-4820"
-resume_contact_address:         "San Francisco, California"
-resume_header_contact_info: "San Francisco, California | 1-(877)-448-4820 | services@github.com"
-resume_header_intro: "<p>Charting the knowledge of the Internet, just like Galileo charted the stars.</p>"
+resume_name:                    "Matteo Mandrile"
+resume_title:                   "Architect | BIM & VDC Consultant | LEED Green Associate"
+resume_contact_email:           "matteomandrile1@gmail.com"
+resume_contact_telephone:       "(+39)3467060895"
+resume_contact_address:         "Turin, Italy"
+resume_header_contact_info: "Turin, Italy | (+39)3467060895 | matteomandrile1@gmail.com"
+resume_header_intro: "<p>Academic background in Architecture and Sustainable Design. I studied at MIT, Polytechnic of Turin and University of Brasília. Specialization in BIM at the European Master in Building Information Modelling.
+In recent years, I joined architectural and engineering firms in Italy, USA, and Brazil, to implement sustainable design strategies and BIM workflows.
+My interests lie in the development and implementation of digital technologies and workflows to support design and construction processes, exploiting the latest innovation in digital design for the AEC industry..</p>"
 
 
 # use "yes" to display the email contact button,
@@ -33,8 +35,8 @@ resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    true
-# resume_section_interests:       true
+#resume_section_associations:    true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
