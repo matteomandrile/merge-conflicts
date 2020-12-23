@@ -2,8 +2,16 @@
 
 # Education
 - skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+  description: Developed and maintained conference talks, online and in-person trainings covering various topics regarding BIM implementation and digitalization of AEC sector.
+
+# Languages
+- skill: Languages
+  description: Italian: Native, English: Advanced, Portuguese: Good, French: Basic
+
+# Software
+- skill: Software
+  description: Revit, Dynamo, Naviswork, BIM360, Archicad, Solibri, Primus, AutoCAD, 3D Studio Max, Vray, Rhino, Grasshopper, QGis, Photoshop, Illustrator, InDesign, Python, Processing
 
 # Leadership
-- skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+# - skill: Leadership
+#   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
