@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+- project: Plannerly
+  role: SmartLeanBIM® ISO 19650 templates Reviewer
+  duration: 2020 &mdash; Present
+  url: "https://www.plannerly.com/"
+  description: Plannerly simplifies BIM management by consolidating BIM standards, modeling requirements, project tracking and BIM compliance.
 
 # GitHub Classroom
-- project: GitHub Classroom
+- project: EUnet4DBP - European Network for Digital Building Permits
   role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  duration: 2020 &mdash; Present
+  url: "https://3d.bk.tudelft.nl/projects/eunet4dbp/"
+  description: Network of researchers and stakeholders aiming at the definition of a common strategy for the digitization of the building permit issuing process, with advantages to interoperability, procedures and data optimization, standardization and good implementations.

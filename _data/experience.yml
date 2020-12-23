@@ -1,18 +1,54 @@
 # Jobs
-# Surftocat
-- company: Self Employed
-  position: Surftocat
-  duration: Life
-  summary: I only live to get radical.
+# Architect – BIM Specialist
+- company: AI Engineering – Turin, IT
+  position: Architect – BIM Specialist
+  duration: Aug, 2018 &mdash; Nov, 2019
+  summary: Amazon logistic centres. Development of detail drawings and technical documentation for the construction phase. Collaboration with AECOM to ensure the transition from schematic proposal to detailed design. Development of BIM architectural model and coordination with MEP and structural models. Data extraction for cost estimation and BREEAM analysis.	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Job Title
-- company: Conway Meats
-  position: Web Developer
-  duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
+# Architect – BIM Specialist
+- company: Peia Associati – Milan, IT
+  position: Architect – BIM Specialist
+  duration: 01/2018 &mdash; 08/2018
+  summary: New Assembly Hall at the United Nations in Geneva. Collaboration to the development of detail drawings and construction documentation. Documents for tender process and procurement. Inaugurated 12th of November 2019. Royal Garden Residential Complex in Shanghai, China. Collaboration to the design development and detailing of facade system using BIM authoring software. Under construction.
 
-# Supportocat
-- company: GitHub, Inc.
-  position: Supportocat, GitHub for Business
-  duration:  June 2016 &mdash; Present
-  summary: Provide world class support to customers on the GitHub for Business platform
+# Architect – BIM Specialist
+- company: ICIS engineering – Turin, IT
+  position: Architect – BIM Specialist
+  duration: 09/2016 &mdash; 05/2017
+  summary: BIM models of existing Research and Development buildings owned by Leonardo Aerospace in Turin, for structural refurbishment and energy rehabilitation. Participation in public competitions, detailing and construction documentation.
+  
+# Architect – 3D Modeler
+- company: MAAT Architecture – Turin, IT
+  position: Architect – 3D Modeler
+  duration: 09/2015 &mdash; 07/2016
+  summary: Interior design for different stores (Bolaffi, Game7), architectural design for mixed-use buildings and renovations for private clients.
+  
+# Software Engineer
+- company: Senseable City Lab – Cambridge, MA
+  position: Software Engineer
+  duration: 05/2014 &mdash; 10/2014
+  summary: Collaboration to the realisation of an interactive installation (Arduino - Processing) for the presentation of an automated vehicle management system in the context of Smart Cities sustainable development solutions. More info at http://senseable.mit.edu/wave/#
+  
+# Intern
+- company: Studio ATA – Turin, Italy
+  position: Intern
+  duration: 09/2013 &mdash; 03/2014
+  summary: Participation in an architectural competition for the renovation of five squares in Monsummano Terme, in Tuscany.
+  
+# Intern
+- company: Meiaum Arquitetura – Brasília, BR
+  position: Intern
+  duration: 01/2013 &mdash; 06/2013
+  summary: Assistance to design and presentations for different types of buildings, from private health clinics to shopping centres.
+  
+  # Intern
+- company: Studio Cucchiarati Srl – Turin, Italy
+  position: Intern
+  duration: 01/2012 &mdash; 06/2012
+  summary: Masterplan and buildings design for an architectural competition called “Le Porte di Novara”. The competition was about the design of a goods exchange station and its related activities, such as restaurants, hotels and shopping centres.
+  
+  # Intern
+- company: Avventura Urbana - Turin, Italy
+  position: Intern
+  duration: 09/2010 &mdash; 12/2010
+  summary: Autocad draftsman and 3D modelling.
