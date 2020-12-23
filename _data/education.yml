@@ -3,7 +3,9 @@
 - degree: European Master in Building Information Modelling
   uni: Polytechnic of Milan, University of Ljubljana, University of Minho
   year: 2019 &mdash; 2020
-  award: Consortium Scholarship
+  awards:
+    - award: Consortium Scholarship
+    - award: BIM & Digital Award 2020 - Thesis awarded 1st prize in the Research Category
   summary: Thesis Title - BIM as multiscale facilitator for built environment analysis, Supervisor Prof. Tomo Cerovšek
 
 - degree: MSc in Architecture for Sustainability Design
